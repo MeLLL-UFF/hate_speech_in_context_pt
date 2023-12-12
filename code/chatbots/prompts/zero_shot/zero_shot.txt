@@ -1,0 +1,1 @@
+Classifique o texto de rede social como "discurso de odio" ou "ofensivo" ou "neutro".
