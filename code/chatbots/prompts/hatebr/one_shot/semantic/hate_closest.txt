@@ -1,0 +1,4 @@
+Classifique o texto de rede social como "discurso de odio" ou "ofensivo" ou "neutro".
+
+Texto: Quanta besteira. Ele nem falou nada demais e os safados já se aproveitam. Sen do PT fez ameaças ao Brasil no Twitter e não vimos vc Joice e nem essa Janaína rebatendo o mesmo. Agora querem calar um dep fed, é? Vcs já cansaram..
+Classe: discurso de odio

@@ -1,0 +1,19 @@
+Classifique o texto de rede social como "discurso de odio" ou "ofensivo" ou "neutro".
+
+Texto: Essa esquerda é uma PIADA!!
+Classe: discurso de odio
+
+Texto: @user Disso vc deve entender!!!
+Classe: neutro
+
+Texto: Quem manda eleger esses merdas!! 
+Classe: ofensivo
+
+Texto: Vou ser presa ,com certeza.
+Classe: neutro
+
+Texto: Que jornalismo das coxas fake...globoxta!
+Classe: ofensivo
+
+Texto: Se ferrou linguaruda, esquerdista idiota
+Classe: discurso de odio

@@ -1,0 +1,19 @@
+Classifique o texto de rede social como "discurso de odio" ou "ofensivo" ou "neutro".
+
+Texto: Safadona
+Classe: discurso de odio
+
+Texto: Que exemplo
+Classe: neutro
+
+Texto: LA GRETA QUE LA PARIU
+Classe: ofensivo
+
+Texto: Meu amor
+Classe: neutro
+
+Texto: MESMO ASSIM AINDA TEM DESINFORMADOS OU IDIOTAS ELOGIANDO ESSE DESGOVERNOhos e ambientais! Sinto muito essa pseudo-ativista ser vista como grande personalidade! Quais foram suas realizações? Bolaonaro fala o que o povo está querendo falar...representa a voz da nação, sem essa m... de articulação política! O povo brasileiro já está com o saco na lua com o politicamente correto!
+Classe: ofensivo
+
+Texto: Pilantra vadia
+Classe: discurso de odio

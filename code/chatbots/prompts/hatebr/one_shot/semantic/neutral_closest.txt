@@ -1,0 +1,4 @@
+Classifique o texto de rede social como "discurso de odio" ou "ofensivo" ou "neutro".
+    
+Texto: Pois é, está aí pessoal o mito de vcs em quê eu nunca dei valor. se estava ruim para quem trabalha agora ele passou do limites. 
+Classe: neutro

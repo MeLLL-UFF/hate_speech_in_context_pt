@@ -1,0 +1,19 @@
+Classifique o texto de rede social como "discurso de odio" ou "ofensivo" ou "neutro".
+
+Texto: Cadelinha de estimação da lixo.
+Classe: discurso de odio
+
+Texto: que lindo cortou cabelo
+Classe: neutro
+
+Texto: Isso é um imbecil!
+Classe: ofensivo
+
+Texto: Em qual o horário ? Em que emissora ? Me digam por favor ! ! Obg ! ! !
+Classe: neutro
+
+Texto: Jornalistas são uns abutres que cruzaram com porcos . Chafurdam na lama sempre .
+Classe: ofensivo
+
+Texto: Secou a fonte pilantra . Devia estar na cadeia . Esquerdista cara de pau
+Classe: discurso de odio

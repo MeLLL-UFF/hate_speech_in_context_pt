@@ -1,0 +1,4 @@
+Classifique o texto de rede social como "discurso de odio" ou "ofensivo" ou "neutro".
+
+Texto: E se eles fizerem isso conseguem, porque do outro lado escuta tudo com medinho. Bando de bunda mole!!!!!
+Classe: ofensivo

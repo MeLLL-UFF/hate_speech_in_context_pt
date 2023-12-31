@@ -1,0 +1,19 @@
+Classifique o texto de rede social como "discurso de odio" ou "ofensivo" ou "neutro".
+
+Texto: Mimimimimimi PT mimimimimimi PT mimimimimimi
+Classe: discurso de odio
+
+Texto: Mais um Cidadão de bem
+Classe: neutro
+
+Texto: LA GRETA QUE LA PARIU
+Classe: ofensivo
+
+Texto: O lindo com os lindos
+Classe: neutro
+
+Texto: Seu pai é um safado
+Classe: ofensivo
+
+Texto: Que saudade do regime militar
+Classe: discurso de odio

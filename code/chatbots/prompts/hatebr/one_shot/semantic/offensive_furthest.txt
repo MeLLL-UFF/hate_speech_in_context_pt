@@ -1,0 +1,4 @@
+Classifique o texto de rede social como "discurso de odio" ou "ofensivo" ou "neutro".
+
+Texto: LA GRETA QUE LA PARIU
+Classe: ofensivo

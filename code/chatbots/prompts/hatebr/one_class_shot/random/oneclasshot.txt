@@ -1,0 +1,10 @@
+Classifique o texto de rede social como "discurso de odio" ou "ofensivo" ou "neutro".
+
+Texto: Cadelinha de estimação da lixo.
+Classe: discurso de odio
+
+Texto: que lindo cortou cabelo
+Classe: neutro
+
+Texto: Isso é um imbecil!
+Classe: ofensivo

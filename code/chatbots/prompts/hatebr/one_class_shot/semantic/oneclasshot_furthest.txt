@@ -1,0 +1,10 @@
+Classifique o texto de rede social como "discurso de odio" ou "ofensivo" ou "neutro".
+
+Texto: Safadona
+Classe: discurso de odio
+
+Texto: Que exemplo
+Classe: neutro
+
+Texto: LA GRETA QUE LA PARIU
+Classe: ofensivo

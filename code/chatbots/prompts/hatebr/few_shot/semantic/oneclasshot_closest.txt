@@ -1,0 +1,19 @@
+Classifique o texto de rede social como "discurso de odio" ou "ofensivo" ou "neutro".
+
+Texto: Quanta besteira. Ele nem falou nada demais e os safados já se aproveitam. Sen do PT fez ameaças ao Brasil no Twitter e não vimos vc Joice e nem essa Janaína rebatendo o mesmo. Agora querem calar um dep fed, é? Vcs já cansaram.
+Classe: discurso de odio
+
+Texto: Pois é, está aí pessoal o mito de vcs em quê eu nunca dei valor. se estava ruim para quem trabalha agora ele passou do limites. 
+Classe: neutro
+
+Texto: E se eles fizerem isso conseguem, porque do outro lado escuta tudo com medinho. Bando de bunda mole!!!!!
+Classe: ofensivo
+
+Texto: @user o problema é esse quando o brasileiro não deixar e não permitir ninguém falar do nosso país. O presidente tem toda a razão e você ainda apoia isso. Por favor!! Porque essa “pessoa “ não se incomoda com a Australia em chamas a semanas ?
+Classe: neutro
+
+Texto: Concordo com o presidente! Além de ser uma pirralha é um grande fantoche de uma potência econômica, cujos interesses nada tem de bonzinhos e ambientais! Sinto muito essa pseudo-ativista ser vista como grande personalidade! Quais foram suas realizações? Bolaonaro fala o que o povo está querendo falar...representa a voz da nação, sem essa m... de articulação política! O povo brasileiro já está com o saco na lua com o politicamente correto!
+Classe: ofensivo
+
+Texto: Vai “garrar” vergonha na cara sua aproveitadora, porque você não se indignou com a ameaça do podre de senador Humberto Costa e outros esquerdalhas nojentos quando ameaçam o Brasil? :emojicobra: é o que você é!!!! :emojivomito: :emojivomito: :emojivomito:
+Classe: discurso de odio
