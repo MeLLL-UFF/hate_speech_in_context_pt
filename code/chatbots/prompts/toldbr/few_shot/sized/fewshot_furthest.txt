@@ -1,0 +1,19 @@
+Classifique o texto de rede social como "discurso de odio" ou "ofensivo" ou "neutro".
+
+Texto: satisfação da porra quando o django mete o cassete nos brancos.
+Classe: discurso de odio
+
+Texto: o tipo de lomotif que eu quero fazer final do ano
+Classe: neutro
+
+Texto: @USER o meu pau rosinha ai dentro da sua bucetinha :rosto_sorridente_com_chifres:
+Classe: ofensivo
+
+Texto: mexe com tudo menos com a porra da minha comidinha cara
+Classe: neutro
+
+Texto: eu acordei me mexi e ainda tô bêbada puta que pariu
+Classe: ofensivo
+
+Texto: marielle franco pode virar nome de avenida em caruaru HTTPURL HTTPURL
+Classe: discurso de odio

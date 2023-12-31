@@ -1,0 +1,4 @@
+Classifique o texto de rede social como "discurso de odio" ou "ofensivo" ou "neutro".
+
+Texto: rt @user @user @user dois bissexuais q são taxados de "feios" fora do padrão coreano metendo o murro nos coreanos apoio
+Classe: discurso de odio

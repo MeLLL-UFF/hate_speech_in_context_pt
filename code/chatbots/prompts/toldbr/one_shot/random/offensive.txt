@@ -1,0 +1,4 @@
+Classifique o texto de rede social como "discurso de odio" ou "ofensivo" ou "neutro".
+
+Texto: @user o que faço para me deliciar nesse pau?
+Classe: ofensivo

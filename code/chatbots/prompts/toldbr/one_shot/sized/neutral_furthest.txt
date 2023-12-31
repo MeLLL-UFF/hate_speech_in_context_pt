@@ -1,0 +1,4 @@
+Classifique o texto de rede social como "discurso de odio" ou "ofensivo" ou "neutro".
+
+Texto: o tipo de lomotif que eu quero fazer final do ano
+Classe: neutro

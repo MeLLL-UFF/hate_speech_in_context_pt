@@ -1,0 +1,4 @@
+Classifique o texto de rede social como "discurso de odio" ou "ofensivo" ou "neutro".
+
+Texto: @USER o meu pau rosinha ai dentro da sua bucetinha :rosto_sorridente_com_chifres:
+Classe: ofensivo

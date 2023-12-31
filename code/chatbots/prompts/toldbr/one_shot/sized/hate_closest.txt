@@ -1,0 +1,4 @@
+Classifique o texto de rede social como "discurso de odio" ou "ofensivo" ou "neutro".
+
+Texto: @user já dei que você vai voltar arrastada pra casa kkk
+Classe: discurso de odio

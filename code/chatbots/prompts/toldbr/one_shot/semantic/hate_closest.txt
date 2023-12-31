@@ -1,0 +1,4 @@
+    Classifique o texto de rede social como "discurso de odio" ou "ofensivo" ou "neutro".
+    
+    Texto: passo mal com essas meninas hetéros com essa síndrome de quererem ser a super heroína das gays a deusa o ícone e tudo isso pq gay da palco pra tudo menos pro que deve dar
+    Classe: discurso de odio

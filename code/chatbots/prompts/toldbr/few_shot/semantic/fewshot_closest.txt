@@ -1,0 +1,19 @@
+Classifique o texto de rede social como "discurso de odio" ou "ofensivo" ou "neutro".
+
+Texto: passo mal com essas meninas hetéros com essa síndrome de quererem ser a super heroína das gays a deusa o ícone e tudo isso pq gay da palco pra tudo menos pro que deve dar
+Classe: discurso de odio
+
+Texto:  @user pqp eu n mereço uma amg dessa me exaltando o tempo todo
+Classe: neutro
+
+Texto: rt @user anda do meu lado, ou fala mal de mim, os dois não dar caralho
+Classe: ofensivo
+
+Texto: rt @user caralho 5 meses pra acabar o ano ja kk vai de leve 2019 vc ta muito bom pra acabar
+Classe: neutro
+
+Texto: @user hahahahah jornalixo inventativo preocupado com conta no twitter, devia se preocupar em fugir jajá a pf bate na tua porta hahaha
+Classe: ofensivo
+
+Texto: rt @USER fluxouuuu open bar pra elas ! :fogo: chama na dm pra colocar nome na lista do open ! :globo_mostrando_as_américas: HTTPURL
+Classe: discurso de odio

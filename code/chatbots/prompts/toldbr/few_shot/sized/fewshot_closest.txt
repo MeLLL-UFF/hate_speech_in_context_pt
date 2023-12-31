@@ -1,0 +1,19 @@
+Classifique o texto de rede social como "discurso de odio" ou "ofensivo" ou "neutro".
+
+Texto: @user já dei que você vai voltar arrastada pra casa kkk
+Classe: discurso de odio
+
+Texto: @user eu tambem, olha a jules falando que ama a rue
+Classe: neutro
+
+Texto: @USER porra tô muito sad , você não tinha esse direito :duende_japonês:
+Classe: ofensivo
+
+Texto: @user não teve. semana q vem @user falou q rola :)
+Classe: neutro
+
+Texto: rt @USER odeio quem muda perto dos amiguinhos :rosto_com_olhos_revirados: vsf mano
+Classe: ofensivo
+
+Texto: @user qual o problema de ser chamado de viado em lycosa
+Classe: discurso de odio

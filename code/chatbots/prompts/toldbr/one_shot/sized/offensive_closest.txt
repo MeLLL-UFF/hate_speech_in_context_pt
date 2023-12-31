@@ -1,0 +1,4 @@
+Classifique o texto de rede social como "discurso de odio" ou "ofensivo" ou "neutro".
+
+Texto: @USER porra tô muito sad , você não tinha esse direito :duende_japonês: 
+Classe: ofensivo

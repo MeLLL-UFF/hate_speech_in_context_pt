@@ -1,0 +1,4 @@
+Classifique o texto de rede social como "discurso de odio" ou "ofensivo" ou "neutro".
+
+Texto: A felicidade em ver a pessoa que alegra nossos dias nesse lugar, ajuda e lembra de todos nós a todo os momento, feliz e grato, não tem preço. Esse homem é um exemplo de força, simpatia, alegria e humildade
+Classe: neutro

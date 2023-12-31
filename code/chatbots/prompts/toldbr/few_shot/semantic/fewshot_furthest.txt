@@ -1,0 +1,19 @@
+Classifique o texto de rede social como "discurso de odio" ou "ofensivo" ou "neutro".
+
+Texto: cachorro de baiano:
+Classe: discurso de odio
+
+Texto: @user mimimimimimimimimimimimimimimimimimimimimimimimimi mimimimimimimimimimimimimimimimimimimimimimimimimi
+Classe: neutro
+
+Texto: oow caralho
+Classe: ofensivo
+
+Texto: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkknem tomei café e minha namorda ja ta almoçando ozoto na internet
+Classe: neutro
+
+Texto: vai toma bo cu
+Classe: ofensivo
+
+Texto: chocolate negro o nada.
+Classe: discurso de odio

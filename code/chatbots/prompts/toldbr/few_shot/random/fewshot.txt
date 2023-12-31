@@ -1,0 +1,19 @@
+Classifique o texto de rede social como "discurso de odio" ou "ofensivo" ou "neutro".
+
+Texto: rt @user @user @user dois bissexuais q são taxados de "feios" fora do padrão coreano metendo o murro nos coreanos apoio
+Classe: discurso de odio
+
+Texto: A felicidade em ver a pessoa que alegra nossos dias nesse lugar, ajuda e lembra de todos nós a todo os momento, feliz e grato, não tem preço. Esse homem é um exemplo de força, simpatia, alegria e humildade
+Classe: neutro
+
+Texto: @user o que faço para me deliciar nesse pau?
+Classe: ofensivo
+
+Texto: desnecessário , vou é nos dois e nem fico zuando
+Classe: neutro
+
+Texto: mano vsf to ansioso pa essa porra eu nem deveria estar assi que q ta acontecendo
+Classe: ofensivo
+
+Texto: pq que o sul ainda faz parte do brasil ? ?
+Classe: discurso de odio

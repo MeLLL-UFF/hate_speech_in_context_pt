@@ -1,0 +1,4 @@
+Classifique o texto de rede social como "discurso de odio" ou "ofensivo" ou "neutro".
+
+Texto: satisfação da porra quando o django mete o cassete nos brancos.
+Classe: discurso de odio
