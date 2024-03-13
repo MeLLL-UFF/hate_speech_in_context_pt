@@ -1,0 +1,10 @@
+Classifique o texto de rede social como "discurso de odio" ou "ofensivo" ou "neutro".
+
+Texto: USER USER USER Se fosse um homem falando isso , tu era a primeira a xinga , ele né ? ! Exemplos de xingamento de lacradora hipócrita : cala boca seu escroto machista , seu esquisito debiloide vsfd Muito vezes até q dou razão pq existe muitos homens nojentos mesmo q não sabe respeita mulheres !
+Classe: discurso de odio
+
+Texto: USER USER USER USER doutor pimpolho , pena de você . Quando alguém não tem educação , e perde os Argumentos parte para o xingamentos verbais . Mostre quem você é , vai nessa .. só diz mais de ti do que de mim . Pena de você . Quero nem ofender aliás , tenho educação , e não devolvo o mau com o mau .
+Classe: neutro
+
+Texto: USER , USER é um babaca , raso demais e sem nada pra contribuir com ninguém , nem com USER msm , se toca palhaço :rosto_de_palhaço: , levando um cacete da Gabriela , não tem argumento , cala a boca
+Classe: ofensivo

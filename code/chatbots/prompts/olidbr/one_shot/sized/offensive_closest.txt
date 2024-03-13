@@ -1,0 +1,4 @@
+Classifique o texto de rede social como "discurso de odio" ou "ofensivo" ou "neutro".
+
+Texto: Os comentários disso aqui são o cúmulo da imbecilidade URL
+Classe: ofensivo

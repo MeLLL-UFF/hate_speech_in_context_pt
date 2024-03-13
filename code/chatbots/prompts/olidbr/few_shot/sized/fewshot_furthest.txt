@@ -1,0 +1,19 @@
+Classifique o texto de rede social como "discurso de odio" ou "ofensivo" ou "neutro".
+
+Texto: maldita mujer libra me tienes a tus pies , JODAAAAAA
+Classe: discurso de odio
+
+Texto: No próximo filmee e USER USER o USER USER
+Classe: neutro
+
+Texto: Te fuiste a la b por puto y cagon .
+Classe: ofensivo
+
+Texto: USER USER é mt bom crepusculo é uma USER
+Classe: neutro
+
+Texto: RT USER : Acompáñenme a hacer origami con mi papel de estupida .
+Classe: ofensivo
+
+Texto: por que todos los evangelicos que conozco son medios gay ?
+Classe: discurso de odio

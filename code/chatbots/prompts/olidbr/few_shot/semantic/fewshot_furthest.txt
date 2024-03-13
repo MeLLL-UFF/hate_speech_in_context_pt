@@ -1,0 +1,19 @@
+Classifique o texto de rede social como "discurso de odio" ou "ofensivo" ou "neutro".
+
+Texto: por que todos los evangelicos que conozco son medios gay ?
+Classe: discurso de odio
+
+Texto: USER ADORANDO ESTE USER E USER ADORANDO O USER USER SE USER USER
+Classe: neutro
+
+Texto: USER Dónde están las feminazi q cuestionan a Andy polo ... y ella si tiene el derecho al trabajo a pesar de ser una agresora de niños
+Classe: ofensivo
+
+Texto: USER USER USER USER USER DE SANGUE
+Classe: neutro
+
+Texto: Te fuiste a la b por puto y cagon 
+Classe: ofensivo
+
+Texto: RT USER : ¿ Pensabais que el PP no iba a escoger a otro más tonto y mentiroso que el anterior ? . Pues sí , lo han vuelto a hacer .
+Classe: discurso de odio

@@ -1,0 +1,19 @@
+Classifique o texto de rede social como "discurso de odio" ou "ofensivo" ou "neutro".
+
+Texto: USER Sabemos o calhorda mentiroso que você é .
+Classe: discurso de odio
+
+Texto: q defende as crianças não , q são homofóbicos
+Classe: neutro
+
+Texto: Os comentários disso aqui são o cúmulo da imbecilidade URL
+Classe: ofensivo
+
+Texto: Se nesse menos não falaria tanta asneiras ! ! !
+Classe: neutro
+
+Texto: Não entendo o pq desses famosos serem tão cafonas ...
+Classe: ofensivo
+
+Texto: Não acredito que perdi meu neguinho :rosto_chorando_aos_berros: :rosto_chorando_aos_berros: :rosto_chorando_aos_berros:
+Classe: discurso de odio

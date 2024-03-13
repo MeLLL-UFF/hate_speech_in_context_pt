@@ -1,0 +1,10 @@
+Classifique o texto de rede social como "discurso de odio" ou "ofensivo" ou "neutro".
+
+Texto: A única coisa q odeio mais q mulher interesseira É homem imbecil q cai no papo dessas pilantra VSF VC TEM CEREBRO PRA ISSO PARA DE PENSAR COM A PICA CARA TA NA CARA IMBECIL DO CARALHO n sei pq me importo ainda cara empatia é uma faca de dois gumes
+Classe: discurso de odio
+
+Texto: nossa melhor video que eu vi dele vs é USER USER
+Classe: neutro
+
+Texto: Eu quero que ele vá pra puta que pariu , tô de saco cheio já .
+Classe: ofensivo
