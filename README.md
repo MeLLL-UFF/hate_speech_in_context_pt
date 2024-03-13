@@ -37,7 +37,7 @@ Gabriel Assis, Annie Amorim, Jonnatahn Carvalho, Daniel de Oliveira, Daniela Via
     address = "Santiago de Compostela, Galicia/Spain",  
     publisher = "Association for Computational Lingustics",  
     url = "https://aclanthology.org/2024.propor-1.31",  
-    pages = "301--311",  
+    pages = "301--311" 
 }
  </p> 
 <br>
