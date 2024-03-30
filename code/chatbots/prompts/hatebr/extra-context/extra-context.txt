@@ -1,3 +1,3 @@
-Considerando que os assuntos da classe "discurso de odio" estão associados com as palavras e emojis moral, comunista, esquerdista, :símbolo_de_masculino:, :pessoa_decepcionada", mídia, vagabunda, soco, vcs e :rosto_de_cavalo:.
-Da classe "ofensivo" estão associados com as palavras e emojis nojo, merda, pastor, globolixo, fogo, :rosto_furioso:, hipócrita, :rosto_soltando_vapor_pelo_nariz:, :rosto_de_camundongo: e :rosto_com_símbolos_na_boca:.
-Da classe "neutro" estão associados com as palavras e emojis :coração_vermelho:, parabéns, bom, :rosto_sorridente_com_olhos_de_coração:, :rosto_zangar:, :rosto_surpreso:, :rosto_contente_com_olhos_sorridente:, :rosto_chorando_aos_berro:, professor e setatop
+Considerando que os assuntos da classe "discurso de odio" estão associados com as palavras e emojis esquerdista, mulher, comunista, :símbolo_de_masculino:, :pessoa_decepcionada:, globo, família, esquerdopata, álibi.
+Da classe "ofensivo" estão associados com as palavras e emojis idiota, bandido, corrupto, congresso, brasileiro, pessoa, merda, cadeia, gente, nojo.
+Da classe "neutro" estão associados com as palavras e emojis :coração_vermelho:, parabéns, filho, bom, :rosto_sorridente_com_olhos_de_coração:, :mãos_juntas:, verdade, professor, :rosto_zangar:, :rosto_com_olhos_semicerrados_e_língua_para_fora:.
