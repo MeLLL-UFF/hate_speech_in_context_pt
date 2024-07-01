@@ -1,6 +1,18 @@
 #pip install -r requirements.txt
 pandas
 numpy
+peft
+torch
+vertexai
+emoji
+evaluate
+sentencepiece
+scipy
+matplotlib
+bertopic
+nlkt
+umap-learn
+spacy
 maritalk==0.1.5
 openai==1.3.3
 accelerate==0.20.3
