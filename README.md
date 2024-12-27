@@ -1,6 +1,13 @@
+
 <h2 align="center"> Exploring Portuguese Hate Speech Detection in Low-Resource Settings: Lightly Tuning Encoder Models or In-Context Learning of Large Models? </h2> 
-</br>
-<p align="justify"> This repository contains the code and results of PROPOR 2024 paper that compared in-context learning with two LLM chatbots and lightly tuning smaller encoder models. </p>
+<h2 align="center">and</h2>
+<h2 align="center"><em>Explorando Técnicas de Aprendizado em Modelos de Linguagem para Classificação de Discurso de Ódio e Ofensivo em Português</em></h2>
+
+<p align="justify">
+This repository contains the code and results from the PROPOR 2024 paper, <a href="https://aclanthology.org/2024.propor-1.31/">Exploring Portuguese Hate Speech Detection in Low-Resource Settings: Lightly Tuning Encoder Models or In-Context Learning of Large Models?</a>, and its extended version, published in <i>LinguaMÁTICA</i>, titled <a href="https://linguamatica.com/index.php/linguamatica/article/view/446"><i>Explorando Técnicas de Aprendizado em Modelos de Linguagem para Classificação de Discurso de Ódio e Ofensivo em Português</i></a>.
+</p>
+
+
 
 ---
 </br>
@@ -10,6 +17,12 @@
 
 <p align="justify">
 Gabriel Assis, Annie Amorim, Jonnatahn Carvalho, Daniel de Oliveira, Daniela Vianna, and Aline Paes. 2024. <b>Exploring Portuguese Hate Speech Detection in Low-Resource Settings: Lightly Tuning Encoder Models or In-Context Learning of Large Models?<b>. In Proceedings of the 16th International Conference on Computational Processing of Portuguese, pages 301–311, Santiago de Compostela, Galicia/Spain. Association for Computational Lingustics.
+</p>
+    
+---
+
+<p align="justify">
+Assis, G., Amorim, A., Carvalho, J., Ferro, M., de Oliveira, D., Vianna, D., & Paes, A. (2024). Explorando Técnicas de Aprendizado em Modelos de Linguagem para Classificação de Discurso de Ódio e Ofensivo em Português. Linguamática, 16(2). Obtido de https://linguamatica.com/index.php/linguamatica/article/view/446
 </p>
 
 </br>
@@ -40,8 +53,18 @@ Gabriel Assis, Annie Amorim, Jonnatahn Carvalho, Daniel de Oliveira, Daniela Via
     pages = "301--311" 
 }
  </p> 
+
+---
+
+<p align="justify">
+@article{Assis_Amorim_Carvalho_Ferro_de_Oliveira_Vianna_Paes_2024, title={Explorando Técnicas de Aprendizado em Modelos de Linguagem para Classificação de Discurso de Ódio e Ofensivo em Português}, volume={16}, url={https://linguamatica.com/index.php/linguamatica/article/view/446}, number={2}, journal={Linguamática}, author={Assis, Gabriel and Amorim, Annie and Carvalho, Jonnathan and Ferro, Mariza and de Oliveira, Daniel and Vianna, Daniela and Paes, Aline}, year={2024}, month={Dez.} }
+ </p> 
+
 <br>
 
 <h2 align="left"> FUNDING </h2>
-<p align="justify"> This research was financed by CNPq (National Council for Scientific and Technological Development), grants 311275/2020-6 and 315750/2021-9, FAPERJ - Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de Janeiro, process SEI-260003/000614/2023, and Coordenação de Aperfeiçoamento de Pessoal de Nível Superior – Brasil (CAPES) – Finance Code 001. </p>
+<p align="justify"> 
+This research was financed by CNPq (National Council for Scientific and Technological Development), grants 307088/2023-5 and 315750/2021-9, and FAPERJ (Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de Janeiro), processes SEI-260003/002930/2024, SEI-260003/000614/2023, SEI-260003/006057/2024, and Coordenação de Aperfeiçoamento de Pessoal de Nível Superior – Brasil (CAPES) – Finance Code 001. The research also benefited from the Google Cloud Research Credits program, under code GCP19980904, and the Maritaca AI credits program.
+</p>
 </br>
+
