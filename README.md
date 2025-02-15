@@ -17,7 +17,8 @@ This repository contains the code and results from the PROPOR 2024 paper, <a hre
 
 > Gabriel Assis, Annie Amorim, Jonnatahn Carvalho, Daniel de Oliveira, Daniela Vianna, and Aline Paes. 2024. <b>Exploring Portuguese Hate Speech Detection in Low-Resource Settings: Lightly Tuning Encoder Models or In-Context Learning of Large Models?<b>. In Proceedings of the 16th International Conference on Computational Processing of Portuguese, pages 301–311, Santiago de Compostela, Galicia/Spain. Association for Computational Lingustics.
     
----
+
+
 
 > Assis, G., Amorim, A., Carvalho, J., Ferro, M., de Oliveira, D., Vianna, D., & Paes, A. (2024). Explorando Técnicas de Aprendizado em Modelos de Linguagem para Classificação de Discurso de Ódio e Ofensivo em Português. Linguamática, 16(2). Obtido de https://linguamatica.com/index.php/linguamatica/article/view/446
 
