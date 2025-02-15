@@ -15,15 +15,11 @@ This repository contains the code and results from the PROPOR 2024 paper, <a hre
 
 <h2 align="left"> CITING </h2>
 
-<p align="justify">
-Gabriel Assis, Annie Amorim, Jonnatahn Carvalho, Daniel de Oliveira, Daniela Vianna, and Aline Paes. 2024. <b>Exploring Portuguese Hate Speech Detection in Low-Resource Settings: Lightly Tuning Encoder Models or In-Context Learning of Large Models?<b>. In Proceedings of the 16th International Conference on Computational Processing of Portuguese, pages 301–311, Santiago de Compostela, Galicia/Spain. Association for Computational Lingustics.
-</p>
+> Gabriel Assis, Annie Amorim, Jonnatahn Carvalho, Daniel de Oliveira, Daniela Vianna, and Aline Paes. 2024. <b>Exploring Portuguese Hate Speech Detection in Low-Resource Settings: Lightly Tuning Encoder Models or In-Context Learning of Large Models?<b>. In Proceedings of the 16th International Conference on Computational Processing of Portuguese, pages 301–311, Santiago de Compostela, Galicia/Spain. Association for Computational Lingustics.
     
 ---
 
-<p align="justify">
-Assis, G., Amorim, A., Carvalho, J., Ferro, M., de Oliveira, D., Vianna, D., & Paes, A. (2024). Explorando Técnicas de Aprendizado em Modelos de Linguagem para Classificação de Discurso de Ódio e Ofensivo em Português. Linguamática, 16(2). Obtido de https://linguamatica.com/index.php/linguamatica/article/view/446
-</p>
+> Assis, G., Amorim, A., Carvalho, J., Ferro, M., de Oliveira, D., Vianna, D., & Paes, A. (2024). Explorando Técnicas de Aprendizado em Modelos de Linguagem para Classificação de Discurso de Ódio e Ofensivo em Português. Linguamática, 16(2). Obtido de https://linguamatica.com/index.php/linguamatica/article/view/446
 
 </br>
 
@@ -54,8 +50,7 @@ Assis, G., Amorim, A., Carvalho, J., Ferro, M., de Oliveira, D., Vianna, D., & P
     url = "https://aclanthology.org/2024.propor-1.31",  
     pages = "301--311" 
 }
-```
-    
+```     
 ```
 @article{Assis_etal_2024,  
   title  = "Explorando Técnicas de Aprendizado em Modelos de Linguagem
