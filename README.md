@@ -28,9 +28,11 @@ Assis, G., Amorim, A., Carvalho, J., Ferro, M., de Oliveira, D., Vianna, D., & P
 </br>
 
 <h2 align="left"> BIBTEX </h2>
-<p align="justify">
+
+``` 
 @inproceedings{assis-etal-2024-exploring,
-    title = "Exploring {P}ortuguese {H}ate {S}peech {D}etection in {L}ow-{R}esource {S}ettings: {L}ightly {T}uning {E}ncoder {M}odels or {I}n-{C}ontext {L}earning of {L}arge {M}odels?",  
+    title = "Exploring {P}ortuguese {H}ate {S}peech {D}etection in {L}ow-{R}esource {S}ettings:
+             {L}ightly {T}uning {E}ncoder {M}odels or {I}n-{C}ontext {L}earning of {L}arge {M}odels?",  
     author = "Assis, Gabriel  and  
       Amorim, Annie  and  
       Carvalho, Jonnathan  and  
@@ -52,14 +54,29 @@ Assis, G., Amorim, A., Carvalho, J., Ferro, M., de Oliveira, D., Vianna, D., & P
     url = "https://aclanthology.org/2024.propor-1.31",  
     pages = "301--311" 
 }
- </p> 
-
----
-
-<p align="justify">
-@article{Assis_Amorim_Carvalho_Ferro_de_Oliveira_Vianna_Paes_2024, title={Explorando Técnicas de Aprendizado em Modelos de Linguagem para Classificação de Discurso de Ódio e Ofensivo em Português}, volume={16}, url={https://linguamatica.com/index.php/linguamatica/article/view/446}, number={2}, journal={Linguamática}, author={Assis, Gabriel and Amorim, Annie and Carvalho, Jonnathan and Ferro, Mariza and de Oliveira, Daniel and Vianna, Daniela and Paes, Aline}, year={2024}, month={Dez.} }
- </p> 
-
+```
+    
+```
+@article{Assis_etal_2024,  
+  title  = "Explorando Técnicas de Aprendizado em Modelos de Linguagem
+            para Classificação de Discurso de Ódio e Ofensivo em Português",  
+  author  = "  
+    Assis, Gabriel and  
+    Amorim, Annie and  
+    Carvalho, Jonnathan and  
+    Ferro, Mariza and  
+    de Oliveira, Daniel and  
+    Vianna, Daniela and  
+    Paes, Aline  
+  ",  
+  journal = "Linguamática",  
+  volume  = "16",  
+  number = "2",  
+  year = "2024",  
+  month  = "December",  
+  url = "https://linguamatica.com/index.php/linguamatica/article/view/446"  
+}
+```
 <br>
 
 <h2 align="left"> FUNDING </h2>
